@@ -77,9 +77,9 @@
                     app:icon="@drawable/ic_nav_profile"
                     app:iconGravity="textStart"
                     app:iconSize="20dp"
-                    app:iconTint="@color/vitour_primary"
-                    app:strokeColor="@color/vitour_outline"
-                    app:strokeWidth="@dimen/stroke_thin"
+                    app:backgroundTint="@color/vitour_primary"
+                    app:iconTint="@android:color/white"
+                    app:strokeWidth="0dp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
